@@ -3,4 +3,4 @@
 ---
 
 This is the first lecture of Agentic AI
-My name is juuhii
+My name is Juuhii
